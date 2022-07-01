@@ -1,10 +1,12 @@
 #include <stdio.h>
+#include <stdlid.h>
 #include <time.h>
 
 /**
- * main -  assign a random number to the variable
+ * main - entry point
  * Return: 0 always success
  */
+
 int main(void)
 {
 	int n;
