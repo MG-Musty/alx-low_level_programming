@@ -1,6 +1,6 @@
+#include <stdio.h>
 #include <stdlid.h>
 #include <time.h>
-#include <stdio.h>
 
 /**
  * main -  assign a random number to the variable
