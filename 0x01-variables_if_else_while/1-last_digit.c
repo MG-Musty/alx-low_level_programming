@@ -28,6 +28,6 @@ int main(void)
 	{
 		printf("less than 6 not 0");
 	}
-		printf("\n");
+		printf("0\n");
 	return (0);
 }
