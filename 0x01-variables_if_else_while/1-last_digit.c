@@ -7,7 +7,7 @@
  *
  * Description: print last digit in random number
  *
- * Return: always 0
+ * Return: always 0 success
  */
 int main(void)
 {
@@ -28,6 +28,6 @@ int main(void)
 	{
 		printf("less than 6 not 0");
 	}
-		printf("\n"),
+		printf("\n");
 	return (0);
 }
