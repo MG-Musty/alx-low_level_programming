@@ -2,9 +2,9 @@
 
 
 /**
- * main - prints the alphabet, in lowercase, followed for the new line
+ * print_alphabet - prints the alphabet, in lowercase, followed new line
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	char letter;
 
