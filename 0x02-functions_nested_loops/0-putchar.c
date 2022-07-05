@@ -5,7 +5,7 @@
  *
  * Return: 0 always success
  */
-int main(void)
+void main(void)
 {
 	_putchar(c);
 	_putchar('\n');
