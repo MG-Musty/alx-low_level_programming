@@ -6,3 +6,9 @@
  * Return: 0 always success
  */
 int main(void)
+{
+	_putchar(c);
+	_putchar('\n');
+
+	return (0);
+}
