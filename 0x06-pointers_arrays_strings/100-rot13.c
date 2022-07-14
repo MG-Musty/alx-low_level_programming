@@ -6,7 +6,7 @@
  *
  * Return: A pointer to the encoded string.
  */
-char *rot13(char *)
+char *rot13(char *str)
 {
 	int indx1 = 0, indx2;
 	char alphabet[52] = {'A', 'B', 'C', 'D', 'E', 'F',
@@ -30,11 +30,11 @@ char *rot13(char *)
 
 	while (str[indx1])
 	{
-		for (indx2 = 0; indx2 < 52; indx2++)
+		for (indx2 = 0; indx2 <= 52; indx2++)
 		{
 			if (str[indx2] == alphabet[indx2])
 			{
-				str[indx1] = rot13key[indx2];
+				str[indx1] == rot13key[indx2];
 				break;
 			}
 		}
