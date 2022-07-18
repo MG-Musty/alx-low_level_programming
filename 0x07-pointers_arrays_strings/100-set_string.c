@@ -11,6 +11,8 @@ void set_string(char **s, char *to)
 {
 	*s = to;
 }
+
+
 100 set_string.c
 
 #include "main.h"
@@ -19,9 +21,9 @@ void set_string(char **s, char *to)
  * set_string - sets the value of a pointer to a char.
  * @s: content is to copied
  * @to: string
- *
  * Return: void
  */
+
 void set_string(char **s, char *to)
 {
 	*s = to;
