@@ -13,8 +13,8 @@ int main(int argc, char *argv[])
 	/*Declaring variables*/
 	int position, total, change, aux;
 	int coins[] = {25, 10, 5, 2, 1}; /*Array int*/
-	position = total = change = aux = 0;
 
+	position = total = change = aux = 0;
 	if (argc != 2)
 	{
 		printf("Error\n");
