@@ -1,5 +1,5 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef MAIN_H
+#define MAIN_H
 
 int _putchar(char c);
 int _putchar(char c);
@@ -11,4 +11,4 @@ int clear_bit(unsigned long int *n, unsigned int index);
 unsigned int flip_bits(unsigned long int n, unsigned long int m);
 int get_endianness(void);
 
-#endif /* HOLBERTON_H */
+#endif /* MAIN_H */
