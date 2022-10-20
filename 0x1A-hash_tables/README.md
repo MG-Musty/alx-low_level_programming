@@ -1,4 +1,4 @@
-# :cap: C - Hash tables :pen:
+# 📚 C - Hash tables :pen:
 
 In this project, I learned about hashing by implementing hash functions
 and hash tables in C.
